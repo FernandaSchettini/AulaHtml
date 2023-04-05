@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<header>
+
+    <title>Series Favoritas</title>
+    <style>
+        body{
+            background-color: rgb(15, 50, 28);
+            color: rgb(255, 255, 255);
+        } 
+    </style>
+</header>
+<body>
+        <h1>TOP 5 SÉRIES FAVORITAS</h1>
+          <!--Lista ORDENADA-->
+    
+    <ol type="1">
+
+        <br>
+        <br>
+    <img src= "https://www.themoviedb.org/t/p/w500/9QMun5PmrdUISgk7RhhGi66E9Tg.jpg" width="600"/>
+    <h2><li>As Telefonistas</h2></li>
+        <h3>SINOPSE: Na cidade de Madrid nos anos 20, quatro mulheres da Companhia Telefónica Nacional <br>lideram a revolução enquanto lidam com o amor e a inveja, num meio profissional moderno.</h3>
+        <br>
+    <img src= "https://www.lavanguardia.com/peliculas-series/images/serie/poster/2012/4/w1280/4XmF8PMSqtHCGNoL15oHbjr5ZuO.jpg"width="600"/>
+    <h2><li>Scandal</h2></li>
+        <h3>SINOPSE: Ambientada em Washington D.C., a capital federal dos Estados Unidos, <br>a empresa de Olivia Pope e seus funcionários é o foco da história, <br>mostrando como seu método de gerenciamento de crises pode ser essencial <br> em todos os momentos, sobretudo quando se lida diretamente com questões políticas e governamentais.</h3>
+<br>
+        <img src= "https://filmspot.com.pt/images/series/posters/big/281620.jpg"width="600"/>
+        <h2><li>How to Get Away with Murder</h2></li>
+        <h3>SINOPSE: Uma famosa professora de direito criminal e um grupo de alunos ambiciosos e bastante competitivos <br>de repente se vêem em uma situação preocupante, após se envolverem em uma série de assassinatos. <br>Tudo começa com uma vontade de se destacar e ganhar o apreço da tutora, e logo vira uma avalanche de eventos <br>que põem à prova seus valores morais e senso de limites.</h3>
+    <br>
+    <img src= "https://www.themoviedb.org/t/p/w500/a4QGjhHUYh2wqHgD8Y6OWEkaRVI.jpg"width="600"/>
+        <h2><li>Shooter</h2></li>
+        <h3>SINOPSE: A trama gira em torno do exímio atirador Bob Lee Swagger (Phillippe), que isola-se nas <br>florestas do Arkansas depois de causar a morte de um inocente. Certo tempo depois, ele é persuadido <br>por seus ex-parceiros a ajudá-los a impedir o assassinato do presidente. <br>Mas ele acaba sendo enganado e acusado de ter planejado o crime.</h3>
+    <br>
+    <img src= "https://pics.filmaffinity.com/La_casa_de_papel_Serie_de_TV-844739080-large.jpg"width="600"/>
+        <h2><li>La Casa de Papel</h2></li>
+        <h3>SINOPSE: Nove habilidosos ladrões (Nairóbi, Berlim, Tókyo, Rio, Helsinki, Oslo, Professor, Denver e Moscou) <br> se trancam na Casa da Moeda da Espanha, com o ambicioso plano de realizar o maior roubo da história. <br>Possuindo a meta de imprimir 2,4 bilhões de euros, a gangue precisará lidar com as dezenas de pessoas <br>que foram mantidas reféns e com os agentes da força de elite da polícia, que farão de tudo para que a investida dos criminosos fracasse.</h3>
+    </ol>
+    
+    <h5 style="color: black;">Fernanda Lopes Schettini</h5>
+    <h5><a href="https://www.linkedin.com/in/fernanda-schettini-2a515731/">Linkedin</a></h5>
+    </body>
+
+
+
+
+    
+
+    
